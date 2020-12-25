@@ -1,1 +1,1 @@
-# Diagrams---Sequence-Flow-Class
+# Diagrams: Sequence, Flow, Class
